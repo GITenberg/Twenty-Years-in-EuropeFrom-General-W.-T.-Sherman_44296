@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40650'
     url: http://www.gutenberg.org/2009/agents/40650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44296#Twenty-Years-in-EuropeFrom-General-W.-T.-Sherman
 gutenberg_issued: '2013-11-27'
 gutenberg_type: Text
 identifiers:
