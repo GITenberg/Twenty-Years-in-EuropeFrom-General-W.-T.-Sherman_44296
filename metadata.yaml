@@ -1,0 +1,29 @@
+_repo: Twenty-Years-in-EuropeFrom-General-W.-T.-Sherman_44296
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44296-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Byers, S. H. M. (Samuel Hawkins Marshall)
+    alias: Byers, Samuel Hawkins Marshall
+    birthdate: 1838
+    deathdate: 1933
+    gutenberg_agent_id: '40650'
+    url: http://www.gutenberg.org/2009/agents/40650
+description: ''
+gutenberg_issued: '2013-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44296'
+  lccn: 00002944
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'D'
+title: "Twenty Years in Europe\r\nA Consul-General's Memories of Noted People, with\
+  \ Letters From General W. T. Sherman"
+url: http://www.gutenberg.org/ebooks/44296
